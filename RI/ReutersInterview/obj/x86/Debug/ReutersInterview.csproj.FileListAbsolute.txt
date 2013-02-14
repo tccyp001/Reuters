@@ -1,0 +1,5 @@
+E:\study\code\c#\ReutersInterview\ReutersInterview\ReutersInterview\bin\Debug\ReutersInterview.exe
+E:\study\code\c#\ReutersInterview\ReutersInterview\ReutersInterview\bin\Debug\ReutersInterview.pdb
+E:\study\code\c#\ReutersInterview\ReutersInterview\ReutersInterview\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\study\code\c#\ReutersInterview\ReutersInterview\ReutersInterview\obj\x86\Debug\ReutersInterview.exe
+E:\study\code\c#\ReutersInterview\ReutersInterview\ReutersInterview\obj\x86\Debug\ReutersInterview.pdb
